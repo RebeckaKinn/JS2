@@ -100,3 +100,4 @@ const myCar: Car = {
   model: "Auris",
   numberOfDoors: 5,
 };
+console.log(myCar);
