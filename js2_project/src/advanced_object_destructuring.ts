@@ -180,5 +180,3 @@ console.log(title); // 'Stardew Valley'
 console.log(publisher); // 'ConcernedApe'
 console.log(releaseYear); // 2016
 console.log(multiplayer); // true
-
-//eksempel fra chat:
